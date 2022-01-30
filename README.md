@@ -1,2 +1,2 @@
 # Series
-A C# Console Application involving OOP basics with movies and shows
+A C# Console Application involving OOP basics, CRUD, with movies and shows
